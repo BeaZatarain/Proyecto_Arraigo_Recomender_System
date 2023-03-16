@@ -5,7 +5,7 @@
 
 ## Descripción general:
 
-Este proyecto se trata de una colaboración real con la Asociación **Proyecto Arraigo** cuyo objetivo principal consiste en dar apoyo técnico a su proceso del dato para poder tomar decisiones informadas. 
+Este proyecto resulta de la colaboración real con la Asociación **Proyecto Arraigo** cuyo objetivo principal consiste en dar apoyo técnico a su proceso del dato para poder tomar decisiones informadas. 
 
 La misión de Proyecto Arraigo escontribuir a dar vida a los pueblos a través de una repoblación sostenible acompañando a familias y personas con ilusión por realizar un cambio de vida al mundo rural y con un proyecto de vida que les permita realizar este cambio mientras contribuyen a aportar valor al territorio. Con ello, debido a la implementación del trabajo en remoto, el COVID y el aumento del coste que conlleva vivir en grandes ciudades, han tenido un gran aumento en la demanda de solicitudes lo que ha propiciado encontrarse con grandes dificultades en el manejo de la información que reciben y, como consecuencia directa, sus procesos internos se han visto afectados.
 
@@ -41,6 +41,11 @@ El resultado del cuadro de mando se puede ver en el siguiente video:
 <video src="https://github.com/BeaZatarain/Proyecto_Arraigo_Recomender_System/blob/main/images/prueba3.mp4" width="320" height="240" controls>
   Tu navegador no soporta la etiqueta video.
 </video>
+
+from IPython.display import Video
+
+Video("prueba3.mp4")
+
 
 
 
