@@ -36,7 +36,7 @@ El resultado del cuadro de mando se puede ver en el siguiente video:
 
 [![Demostración](https://github.com/BeaZatarain/Proyecto_Arraigo_Recomender_System/blob/main/images/prueba3.mp4)
 
-
+[![Alternate Text]({image-url})]({https://github.com/BeaZatarain/Proyecto_Arraigo_Recomender_System/blob/main/images/prueba3.mp4} "Link Title")
 
 
 ## Futuros pasos:
