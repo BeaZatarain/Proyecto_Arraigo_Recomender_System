@@ -34,9 +34,7 @@ Con ello, creamos una Dataframe específico a partir de los datos limpios, modif
 
 El resultado del cuadro de mando se puede ver en el siguiente video: 
 
-<video src="./images/prueba3.mp4" width="320" height="240" controls>
-  Tu navegador no soporta la etiqueta video.
-</video>
+https://user-images.githubusercontent.com/120413819/225659214-c2180b8c-8469-4a74-b6e5-6c7b7bc21306.mp4
 
 
 
