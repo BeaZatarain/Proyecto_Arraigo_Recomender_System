@@ -34,7 +34,9 @@ Con ello, creamos una Dataframe específico a partir de los datos limpios, modif
 
 El resultado del cuadro de mando se puede ver en el siguiente video: 
 
-----Insertar video---
+[![Demostración](https://github.com/BeaZatarain/Proyecto_Arraigo_Recomender_System/blob/main/images/prueba3.mp4)
+
+
 
 
 ## Futuros pasos:
