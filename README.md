@@ -34,17 +34,12 @@ Con ello, creamos una Dataframe específico a partir de los datos limpios, modif
 
 El resultado del cuadro de mando se puede ver en el siguiente video: 
 
-[![Demostración](https://github.com/BeaZatarain/Proyecto_Arraigo_Recomender_System/blob/main/images/prueba3.mp4)
-
-[![Alternate Text]({image-url})]({https://github.com/BeaZatarain/Proyecto_Arraigo_Recomender_System/blob/main/images/prueba3.mp4} "Link Title")
-
 <video src="https://github.com/BeaZatarain/Proyecto_Arraigo_Recomender_System/blob/main/images/prueba3.mp4" width="320" height="240" controls>
   Tu navegador no soporta la etiqueta video.
+    
 </video>
 
-from IPython.display import Video
 
-Video("prueba3.mp4")
 
 
 
